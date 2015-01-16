@@ -1,7 +1,7 @@
 # TackyTicTacToe
 ## A Code Test
 
-This project is a **Code Test** for a prospective employer built over 6 hours (1/15-1/16/15) implementing a TicTacToe game.
+This project is a **Code Test** for a prospective employer built over 6 hours (1/15-1/16/15) implementing a TicTacToe game.  An example of this project can be viewed at http://minnirok.com/tictactoe/
 
 ### Technical Requirements
 
