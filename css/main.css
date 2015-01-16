@@ -1,5 +1,4 @@
 h1 {
-	font-family: 'Roboto Slab';
 	font-size:2.5em;
 }
 h1 em {
@@ -9,12 +8,10 @@ h1 em {
 body {
 	margin:auto;
 	text-align:center;
+	font-family: 'Roboto Slab';
 }
 #board, #right, #left {
 	display: inline-block;
-}
-#board {
-	
 }
 #grid {
 	position: relative;
