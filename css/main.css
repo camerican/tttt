@@ -1,0 +1,139 @@
+h1 {
+	font-family: 'Roboto Slab';
+	font-size:2.5em;
+}
+h1 em {
+	font-size:1.5em;
+	font-family: Roboto;
+}
+body {
+	margin:auto;
+	text-align:center;
+}
+#board, #right, #left {
+	display: inline-block;
+}
+#board {
+	
+}
+#grid {
+	position: relative;
+	width:25em;
+}
+#grid div {
+	position:relative;
+	width:8em;
+	height:8em;
+	display: inline-block;
+	background-color:#ff0000;
+	border:2px solid #000000;
+	text-align:center;
+	cursor:pointer;
+}
+#grid .white {
+	background-color:#ffffff;
+}
+#grid div i {
+	position:absolute;
+	font-size:6em;
+	left:.15;
+	top:.08;
+}
+
+#grid div i.fa-university,
+#grid div i.fa-futbol-o
+ {
+	font-size:6em;
+	left:.15em;
+	top:0.2em;
+}
+
+#grid div i.fa-bomb,
+#grid div i.fa-heart,
+#grid div i.fa-suitcase {
+	font-size:6.5em;
+	left:.15em;
+	top:.1em;
+}
+
+#grid div i.fa-circle-o,
+#grid div i.fa-key {
+	font-size:7em;
+	left:.15em;
+	top:.08em;
+}
+
+#grid div i.fa-times, 
+#grid div i.fa-cog {
+	font-size:8em;
+	left:.1em;
+	top:0;
+}
+#grid div i.fa-tree {
+	font-size:7em;
+	left:.15em;
+	top:.1em;
+} 
+#grid div i.fa-flash {
+	font-size:7em;
+	left:.35em;
+	top:.05em;
+}
+#grid div i.fa-cog {
+	font-size:8em;
+	left:.1em;
+	top:0;
+}
+section#left, section#right {
+	vertical-align: top;
+	font-size:3em;
+}
+.possession { vertical-align:text-top;}
+.possession .msg {
+	font-size:.50em;
+	display:inline;
+	height:160px;
+}
+.possession .arrow {
+	font-size:1.5em;
+	display:inline;
+}
+.hidden {
+	visibility:hidden;
+}
+#console {
+	padding-bottom:1em;
+	font-family:courier;
+}
+#container {
+	text-align:center;
+}
+#reset {
+	background-color:#ff3333;
+	border: 4px solid #000000;
+	font-family: 'Roboto Slab';
+	width:8em;
+	position:relative;
+	display:inline-block;
+	cursor:pointer;
+}
+.score {
+	margin-top:2em;
+}
+.symbol_selection {
+	color:#cccccc;
+	padding:.5em 1.25em;
+	width:1.5em;
+
+}
+.symbol_selection i {
+	display:inline-block;
+	font-size:.5em;
+	cursor:pointer;
+}
+.symbol_selection i:hover {
+	color:#999999;
+}
+.symbol_selection small{
+	font-size: .2em;
+}
