@@ -1,16 +1,16 @@
 # TackyTicTacToe
 ## A Code Test
 
-This project is a **Code Test** for a prospective employer built over 6 hours (1/15-1/16/15) implementing a TicTacToe game.  An example of this project can be viewed at http://minnirok.com/tictactoe/
+This is a simple sample project implementing a TicTacToe game.  A live instance can be viewed at http://minnirok.com/tictactoe/
 
 ### Technical Requirements
 
 * Create a Tic-Tac-Toe game
-* Two people play using the same KVM
+* Two people play using the same keyboard
 
 ### How to View this Program
 
-**Tacky TicTacToe** is a front-end javascript prototype satisfying the above requirements. It should be viewed as a Minimum Viable Product (MVP) rather than a polished diamond.  This approach was decided upon to emphasize the utility of developing features **in-code** to evaluate their utility rather than via external specification. This exploratory approach makes problem-solving more fun since the creativity rests with the developer and not the person scoping the project.
+**Tacky TicTacToe** is a front-end javascript prototype satisfying the above requirements. It should be viewed as a Minimum Viable Product (MVP) rather than polished.  This approach was decided upon to emphasize the utility of developing features **in-code** to evaluate their utility rather than via external specification. This exploratory approach makes problem-solving more fun since the creativity rests with the developer and not the person scoping the project.
 
 This particular project could certainly stand to be refactored but should provide insight as to an agile approach towards realizing an objective.
 
